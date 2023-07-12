@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.614c9089.css",
+    "main.js": "/portfolio/static/js/main.e503c6ba.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/januu.png": "/portfolio/static/media/januu.c81e15852990112b1baa.png",
+    "static/media/mainimage.jpg": "/portfolio/static/media/mainimage.c8a04afd2ed7aeda82c2.jpg",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.1eb596109d0ff5c66e70.pdf",
+    "static/media/foodapp.png": "/portfolio/static/media/foodapp.bf5060003b2ab7e6df97.png",
+    "static/media/nextjs.png": "/portfolio/static/media/nextjs.ab2f88fd8e789c06af94.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.dc237ebf2aca1bf43ecf.png",
+    "static/media/clock3.png": "/portfolio/static/media/clock3.b4d096cbcdbefe682404.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.5ffcf4d08e32782ec641.png",
+    "static/media/chart.png": "/portfolio/static/media/chart.2975232dab435e226e84.png",
+    "index.html": "/portfolio/index.html",
+    "main.614c9089.css.map": "/portfolio/static/css/main.614c9089.css.map",
+    "main.e503c6ba.js.map": "/portfolio/static/js/main.e503c6ba.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614c9089.css",
+    "static/js/main.e503c6ba.js"
+  ]
+}
